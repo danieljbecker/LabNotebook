@@ -6,7 +6,7 @@ title: about
 
 ## open lab notebook
 
-eyo. i'm Dan, a PhD student in the [Odum School of Ecology](http://www.ecology.uga.edu), where I'm co-advised by [Sonia Altizer](http://altizerlab.uga.edu) and [Daniel Streicker](http://streickergroup.wordpress.com). for information about my research, check out my [website](http://danieljbecker.weebly.com). 
+eyo. i'm Daniel, a PhD student in the [Odum School of Ecology](http://www.ecology.uga.edu). I'm jointly advised by [Sonia Altizer](http://altizerlab.uga.edu) at UGA and [Daniel Streicker](http://streickergroup.wordpress.com) at the University of Glasgow. my research straddles mathematical modeling, field studies of vampire bats, and statistical analysis of human disease datasets to understand mechanistic links between changes to wildlife food resources and infectious disease dynamics and risk. for more information about my past and current projects, check out my [website](http://danieljbecker.weebly.com). 
 
 this blog was created on the [Jekyll](http://jekyllrb.com) platform, templating from [Hyde](http://hyde.getpoole.com),and hosted on [GitHub](https://github.com/danieljbecker).
 
