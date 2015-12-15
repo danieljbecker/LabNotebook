@@ -11,12 +11,12 @@ version:          1.0.1
 
 
 # Setup
-title:             Lab Notebook
-tagline:          'Your Name'
-description:      'Blah blah blah'
-baseurl:          /sampleNotebook
+title:             lab notebook
+tagline:          'Daniel Becker'
+description:      'lab notebook'
+baseurl:          /notebook
 
 paginate:         5
 
 github:
-  repo:           https://github.com/taddallas/sampleNotebook
+  repo:           https://github.com/danieljbecker/LabNotebook
